@@ -5,6 +5,6 @@ This is the Heating Car Cover Project.
 
 
 To run the code in the terminal, run:
-''' shell 
+```shell
 python3 UltrasonicSensor.py
-'''
+```
